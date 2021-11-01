@@ -1,4 +1,4 @@
-from _typeshed import Self
+
 
 
 import tree_root as tr
